@@ -8,7 +8,7 @@
             "environmentType": "Sandbox",
             "environmentName": "mzlu",
             "tenant": "9191dc92-5dc4-4c3f-9156-5948bfa2f352",
-            "startupObjectId": 50140,
+            "startupObjectId": 55000,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
